@@ -17,30 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m now a PhD student at Department of Statistics, The Chinese University of Hong Kong(CUHK) advised by Professor [Jiacheng Zhang](https://www.sta.cuhk.edu.hk/jiachengzh/). Previously, I received my degree of Bachelor of Science with Honours, First Class in from CUHK in 2025 majoring in Mathematics (Stream: Enrichment and Computational and Applied Mathematics).
+I’m now a PhD student at Department of Statistics, The Chinese University of Hong Kong(CUHK) advised by Professor [Jiacheng Zhang](https://www.sta.cuhk.edu.hk/jiachengzh/). 
+Previously, I received my degree of Bachelor of Science with Honours, First Class in from CUHK in 2025 majoring in Mathematics (Stream: Enrichment) 
+(Stream: Computational and Applied Mathematics).
 
 My research interest includes financial mathematics and stochastic analysis.
-
-# 🔥 News
-
-# 📝 Publications 
-
-# 🎖 Honors and Awards
-- *2023.07* CUHK Faculty of Science Dean’s List 2022-2023
-- *2024.07* CUHK Faculty of Science Dean’s List 2023-2024
-- *2025.07* CUHK Faculty of Science Dean’s List 2024-2025
-- *2023.06* Talent Development Scholarship 2022/2023
-- *2024.05* Mathematical Contest In Modeling Certificate of Achievement (MCM) 2024, Meritorious Winner
-- *2025.02* Alex Chung Shun Chan Science Faculty Scholarship 
-- *2025.04* Bankee Kwan Mathematics Major Scholarship
-- *2025.07* Talent Development Scholarship 2024/2025
 
 # 📖 Educations
 - *2025.08 - Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
 - *2021.09 - 2025.07*, Bachelor of Science in Mathematics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
 
+# 📝 Publications 
+
+# 🎖 Honors and Awards
+- *2025.07* CUHK Faculty of Science Dean’s List 2024-2025 (Top 10%)
+- *2024.06* CUHK Faculty of Science Dean’s List 2023-2024 (Top 10%)
+- *2023.06* CUHK Faculty of Science Dean’s List 2022-2023 (Top 10%)
+- *2025.07* Talent Development Scholarship 2024/2025
+- *2025.04* Bankee Kwan Mathematics Major Scholarship
+- *2025.02* Alex Chung Shun Chan Science Faculty Scholarship ()
+- *2024.05* Mathematical Contest In Modeling Certificate of Achievement (MCM) 2024, Meritorious Winner
+- *2023.06* Talent Development Scholarship 2022/2023
+
 # 💻 Work Experience
-- *2023.07 - 2023.08*, Teaching Assistant, Training Programme for Young Mathematics Talents, CUHK.
-- *2023.05 - 2023.08*, Student Helper, Analysis of Partial Differential Equations, Mathematics Department of CUHK.
 - *2024.06 - 2024.07*, Research Assistant, COSINE summer research program, Mathematics Department of Tsinghua University and CUHK.
+- *2023.05 - 2023.08*, Student Helper, Analysis of Partial Differential Equations, Mathematics Department of CUHK.
+- *2023.07 - 2023.08*, Teaching Assistant, Training Programme for Young Mathematics Talents, CUHK.
+
 
