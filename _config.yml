@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijie GUO(郭子杰)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : # " "
 repository               : "jasngu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zijie GUO"
+  name             : "Zijie GUO (郭子杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Ph.D @ CUHK"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
