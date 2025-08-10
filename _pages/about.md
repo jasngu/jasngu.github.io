@@ -35,7 +35,7 @@ My research interest includes financial mathematics and stochastic analysis.
 - *2023.06* CUHK Faculty of Science Dean’s List 2022-2023 (Top 10%)
 - *2025.07* Talent Development Scholarship 2024/2025
 - *2025.04* Bankee Kwan Mathematics Major Scholarship
-- *2025.02* Alex Chung Shun Chan Science Faculty Scholarship ()
+- *2025.02* Alex Chung Shun Chan Science Faculty Scholarship
 - *2024.05* Mathematical Contest In Modeling Certificate of Achievement (MCM) 2024, Meritorious Winner
 - *2023.06* Talent Development Scholarship 2022/2023
 
