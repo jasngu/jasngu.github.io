@@ -23,10 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijie GUO (郭子杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D @ CUHK"
+  bio              : "Ph.D. @ CUHK"
   location         : "Hong Kong, China"
-  employer         :
-  pubmed           : 
+  employer         : [CUHK Statistics](https://www.sta.cuhk.edu.hk/)
+  pubmed           :
   googlescholar    :
   email            : "1155173922@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"

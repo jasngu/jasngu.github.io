@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m now a PhD student at Department of Statistics, The Chinese University of Hong Kong(CUHK) advised by Professor [Jiacheng Zhang](https://www.sta.cuhk.edu.hk/jiachengzh/). 
-Previously, I received my degree of Bachelor of Science with Honours, First Class in from CUHK in 2025 majoring in Mathematics (Stream: Enrichment) 
+I’m now a Ph.D. student at Department of Statistics, The Chinese University of Hong Kong (CUHK) advised by Professor [Jiacheng Zhang](https://www.sta.cuhk.edu.hk/jiachengzh/). 
+Previously, I received my degree of Bachelor of Science with Honours, First Class from CUHK in 2025 majoring in Mathematics (Stream: Enrichment) 
 (Stream: Computational and Applied Mathematics).
 
 My research interest includes financial mathematics and stochastic analysis.
