@@ -39,6 +39,7 @@ My research interest includes financial mathematics and stochastic analysis.
 - *2024.05* Mathematical Contest In Modeling Certificate of Achievement (MCM) 2024, Meritorious Winner
 - *2023.06* Talent Development Scholarship 2022/2023
 
+<span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
 - *2024.06 - 2024.07*, Research Assistant, COSINE summer research program, Mathematics Department of Tsinghua University and CUHK.
 - *2023.05 - 2023.08*, Student Helper, Analysis of Partial Differential Equations, Mathematics Department of CUHK.
